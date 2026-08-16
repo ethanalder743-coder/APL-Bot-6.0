@@ -1,0 +1,2 @@
+"""Discord team management bot."""
+
